@@ -7,7 +7,7 @@ public class Ex_DateUtil {
 		DateUtil util = new DateUtil();
 		
 		String s = "200a-10-10";
-		boolean b = util.isVaildDate(s);
+		boolean b = util.isValidDate(s);
 		System.out.println(b);
 		
 	}
